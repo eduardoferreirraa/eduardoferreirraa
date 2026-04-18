@@ -3,7 +3,6 @@
 🎓 **Estudante de Ciência da Computação | Apaixonado por desenvolvimento de software**
 🇧🇷 São Paulo, Brasil
 
-Alterei direto no site
 Estou construindo minha base técnica com foco em **desenvolvimento de software**, estudando linguagens e boas práticas desde o início da graduação.
 Busco minha **primeira oportunidade como desenvolvedor** para crescer na prática, contribuir com times de tecnologia e evoluir continuamente.
 
