@@ -1,6 +1,3 @@
-@ -1,6 +1,76 @@
-# Olá,Mundo!
-Primeiro repositório do curso de Git e GitHub
 # Hi 👋, I'm Eduardo Ferreira
 
 Repositório criado durante uma aula ao vivo!
