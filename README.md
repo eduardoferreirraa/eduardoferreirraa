@@ -1,6 +1,5 @@
 # Hi 👋, I'm Eduardo Ferreira
 
-Repositório criado durante uma aula ao vivo!
 🎓 **Estudante de Ciência da Computação | Apaixonado por desenvolvimento de software**
 🇧🇷 São Paulo, Brasil
 
