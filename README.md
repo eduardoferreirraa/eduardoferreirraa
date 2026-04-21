@@ -60,8 +60,8 @@ Busco minha **primeira oportunidade como desenvolvedor** para crescer na prátic
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eduardo-ferreira&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-ferreira&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eduardoferreirraa&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoferreirraa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
