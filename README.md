@@ -79,9 +79,16 @@ Cada repositório aqui representa uma etapa real do meu aprendizado — do prime
 
 ---
 
-## 📈 Atividade
+## 📊 Minhas linguagens & nível atual
 
-![Snake animation](https://raw.githubusercontent.com/eduardoferreirraa/eduardoferreirraa/output/github-contribution-grid-snake-dark.svg)
+| Linguagem | Nível | Status |
+|---|---|---|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `██████░░░░` 50% | Aprendendo |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `█████░░░░░` 40% | Aprendendo |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | `██████░░░░` 50% | Aprendendo |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | `██████░░░░` 50% | Aprendendo |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | `██░░░░░░░░` 20% | Iniciante |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | `████░░░░░░` 40% | Iniciante |
 
 ---
 
