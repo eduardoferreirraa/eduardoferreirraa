@@ -48,34 +48,50 @@ Sou organizado, consistente e comprometido com boas práticas desde o primeiro d
 
 ---
 
-## 📂 Projetos em destaque
+## 📂 Minha jornada em repositórios
 
-> 🔨 Seção em construção — projetos sendo finalizados e documentados.
+Cada repositório aqui representa uma etapa real do meu aprendizado — do primeiro "Olá, Mundo!" até projetos com lógica de negócio real.
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [SMM - Simulador de Pagamento](https://github.com/eduardoferreirraa) | Simulador de meios de pagamento com cálculo de MDR, parcelas e datas de crédito | Python |
-| _em breve_ | Página web responsiva | HTML5, CSS3, JS |
-| _em breve_ | Projeto com POO | Java |
+### 🐍 Python
+| Repositório | O que aprendi |
+|---|---|
+| [Simulador de Meio de Pagamento](https://github.com/eduardoferreirraa/Simulador_de_Meio_de_Pagamento) | Algoritmos financeiros, MDR, cálculo de parcelas, datas de crédito, validação de dados |
+| [Simulador Comentado](https://github.com/eduardoferreirraa/Simulador_comentado) | Documentação de código, boas práticas, clareza e legibilidade |
+| [Exercícios Python](https://github.com/eduardoferreirraa/Exercicios-Python) | Lógica de programação, funções, estruturas de controle e dados |
+
+### 🌐 JavaScript
+| Repositório | O que aprendi |
+|---|---|
+| [Curso em Vídeo — JavaScript](https://github.com/eduardoferreirraa/Curso-Em-Video-JavaScript) | Fundamentos da linguagem, DOM, eventos e lógica no navegador |
+| [Exercícios JavaScript](https://github.com/eduardoferreirraa/Exercicio_Java_Script) | Prática de algoritmos e manipulação de dados em JS |
+
+### 🌍 Web & Projetos
+| Repositório | O que aprendi |
+|---|---|
+| [projeto-site](https://github.com/eduardoferreirraa/projeto-site) | HTML5, CSS3 e estruturação de páginas web |
+| [First-time Pet Owner](https://github.com/eduardoferreirraa/First-time_pet_owner) | Projeto web temático — layout, semântica e estilo |
+
+### 📚 Fundamentos
+| Repositório | O que aprendi |
+|---|---|
+| [Olá Mundo](https://github.com/eduardoferreirraa/Ola-Mundo) | Primeiros passos — sintaxe básica e ambiente de desenvolvimento |
+| [Material Git e GitHub](https://github.com/eduardoferreirraa/Material_Git_e_Git_Hub) | Versionamento, commits, branches e colaboração |
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Atividade
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eduardoferreirraa&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoferreirraa&layout=compact&theme=tokyonight" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/eduardoferreirraa/eduardoferreirraa/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/eduardo-ferreira">
+  <a href="https://github.com/eduardoferreirraa">
     <img src="https://img.shields.io/badge/GitHub-eduardo--ferreira-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/eduardoferreira">
+  <a href="https://www.linkedin.com/in/eduardo-ferreira-a522722a2/">
     <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
