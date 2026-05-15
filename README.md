@@ -1,61 +1,64 @@
-# Hi 👋, I'm Eduardo Ferreira
+# Olá, eu sou o Eduardo Ferreira 👋
 
-🎓 **Estudante de Ciência da Computação | Apaixonado por desenvolvimento de software**
-🇧🇷 São Paulo, Brasil
+🎓 **Estudante de Ciência da Computação** — UNICSUL, São Paulo  
+💼 Buscando meu **primeiro estágio ou oportunidade** em desenvolvimento de software  
+📍 São Paulo, Brasil &nbsp;|&nbsp; 🇧🇷 Disponível para trabalho presencial ou remoto
 
-Estou construindo minha base técnica com foco em **desenvolvimento de software**, estudando linguagens e boas práticas desde o início da graduação.
-Busco minha **primeira oportunidade como desenvolvedor** para crescer na prática, contribuir com times de tecnologia e evoluir continuamente.
-
----
-
-## 🌐 Onde me encontrar
-
-<p align="left">
-  <a href="https://github.com/eduardo-ferreira">
-    <img src="https://img.shields.io/badge/GitHub-eduardo--ferreira-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-   <a href="https://www.linkedin.com/feed/">
-    <img src="https://img.shields.io/badge/LinkedIn-Eduardoferreira-181717?style=for-the-badge&labelColor=0A66C2&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2IDIuMDYgMCAwIDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxIDEgMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white" />
-  </a>
-</p>
+> _"Todo especialista já foi um dia iniciante. O que diferencia é a consistência em aprender todos os dias."_
 
 ---
 
-## 🧠 O que estou aprendendo e construindo
+## 🙋 Sobre mim
 
-- 🐍 Lógica de programação e algoritmos com Python
-- 🌐 Páginas web com HTML5 e CSS3 e JavaScript para interatividade e lógica
-- ☕ Programação Orientada a Objetos com Java
-- 🔧 Versionamento de código com Git e GitHub
-- 📊 Análise de dados e relatórios (experiência profissional atual)
-- 🏗️ Boas práticas de organização e clean code
+Estou no início da minha jornada como desenvolvedor, construindo uma base sólida em lógica de programação, algoritmos e desenvolvimento web. Tenho experiência profissional atual com **análise de dados e relatórios**, o que me deu visão de negócio e disciplina analítica — diferenciais que levo para o desenvolvimento.
+
+Sou organizado, consistente e comprometido com boas práticas desde o primeiro dia de código.
+
+---
+
+## 🚀 O que estou aprendendo agora
+
+| Área | Tecnologia / Foco |
+|---|---|
+| Lógica & Algoritmos | Python — estruturas, funções, manipulação de dados |
+| Web Front-end | HTML5, CSS3, JavaScript — pages responsivas e interativas |
+| POO | Java — conceitos de orientação a objetos |
+| Versionamento | Git & GitHub — controle de código e colaboração |
+| Dados | Análise e relatórios (experiência profissional ativa) |
+| Boas práticas | Clean code, organização, legibilidade |
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Linguagens
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
 
 ### Front-end
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Ferramentas
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
+## 📂 Projetos em destaque
+
+> 🔨 Seção em construção — projetos sendo finalizados e documentados.
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [SMM - Simulador de Pagamento](https://github.com/eduardoferreirraa) | Simulador de meios de pagamento com cálculo de MDR, parcelas e datas de crédito | Python |
+| _em breve_ | Página web responsiva | HTML5, CSS3, JS |
+| _em breve_ | Projeto com POO | Java |
+
+---
 
 ## 📊 GitHub Stats
 
@@ -66,12 +69,18 @@ Busco minha **primeira oportunidade como desenvolvedor** para crescer na prátic
 
 ---
 
-## 🚀 Filosofia
+## 🌐 Onde me encontrar
 
-> _"Todo especialista já foi um dia iniciante.
-> O que diferencia é a consistência em aprender todos os dias."_
+<p align="left">
+  <a href="https://github.com/eduardo-ferreira">
+    <img src="https://img.shields.io/badge/GitHub-eduardo--ferreira-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/eduardoferreira">
+    <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ Fique à vontade para explorar meus repositórios — cada um representa uma etapa do meu aprendizado
-🤝 Aberto a conexões, dicas e oportunidades na área de desenvolvimento
+⭐ Fique à vontade para explorar meus repositórios — cada um representa uma etapa real do meu aprendizado.  
+🤝 Aberto a conexões, feedbacks e oportunidades em desenvolvimento de software.
