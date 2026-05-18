@@ -55,6 +55,7 @@ Cada repositório aqui representa uma etapa real do meu aprendizado — do prime
 ### 🐍 Python
 | Repositório | O que aprendi |
 |---|---|
+| [Simulador de Caixa Eletrônico (ATM)](https://github.com/eduardoferreirraa/Simulador_ATM) | Algoritmos de combinação de notas, controle de estoque, validação de entradas, histórico com `datetime` |
 | [Simulador de Meio de Pagamento](https://github.com/eduardoferreirraa/Simulador_de_Meio_de_Pagamento) | Algoritmos financeiros, MDR, cálculo de parcelas, datas de crédito, validação de dados |
 | [Simulador Comentado](https://github.com/eduardoferreirraa/Simulador_comentado) | Documentação de código, boas práticas, clareza e legibilidade |
 | [Exercícios Python](https://github.com/eduardoferreirraa/Exercicios-Python) | Lógica de programação, funções, estruturas de controle e dados |
