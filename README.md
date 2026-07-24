@@ -55,22 +55,21 @@ Cada repositório aqui representa uma etapa real do meu aprendizado — do prime
 ### 🐍 Python
 | Repositório | O que aprendi |
 |---|---|
-| [Simulador de Caixa Eletrônico (ATM)](https://github.com/eduardoferreirraa/Simulador_ATM) | Algoritmos de combinação de notas, controle de estoque, validação de entradas, histórico com `datetime` |
-| [Simulador de Meio de Pagamento](https://github.com/eduardoferreirraa/Simulador_de_Meio_de_Pagamento) | Algoritmos financeiros, MDR, cálculo de parcelas, datas de crédito, validação de dados |
-| [Simulador Comentado](https://github.com/eduardoferreirraa/Simulador_comentado) | Documentação de código, boas práticas, clareza e legibilidade |
-| [Exercícios Python](https://github.com/eduardoferreirraa/Exercicios-Python) | Lógica de programação, funções, estruturas de controle e dados |
+| [Simulador de Caixa Eletrônico (ATM)](https://github.com/eduardoferreirraa/Simulador-Cash-Dispenser) | Algoritmos de combinação de notas, controle de estoque, validação de entradas, histórico com `datetime` |
+| [Simulador de Meio de Pagamento](https://github.com/eduardoferreirraa/Simulador_Meio_de_Pagamento) | Algoritmos financeiros, MDR, cálculo de parcelas, datas de crédito, validação de dados |
+| [Exercícios Python](https://github.com/eduardoferreirraa/ExerciciosPython) | Lógica de programação, funções, estruturas de controle e dados |
 
 ### 🌐 JavaScript
 | Repositório | O que aprendi |
 |---|---|
 | [Curso em Vídeo — JavaScript](https://github.com/eduardoferreirraa/Curso-Em-Video-JavaScript) | Fundamentos da linguagem, DOM, eventos e lógica no navegador |
-| [Exercícios JavaScript](https://github.com/eduardoferreirraa/Exercicio_Java_Script) | Prática de algoritmos e manipulação de dados em JS |
+| [Exercícios JavaScript](https://github.com/eduardoferreirraa/Exercicios-JavaScript) | Prática de algoritmos e manipulação de dados em JS |
 
 ### 🌍 Web & Projetos
 | Repositório | O que aprendi |
 |---|---|
-| [projeto-site](https://github.com/eduardoferreirraa/projeto-site) | HTML5, CSS3 e estruturação de páginas web |
-| [First-time Pet Owner](https://github.com/eduardoferreirraa/First-time_pet_owner) | Projeto web temático — layout, semântica e estilo |
+| [projeto-site](https://github.com/eduardoferreirraa/Projeto-Site) | HTML5, CSS3 e estruturação de páginas web |
+| [First-time Pet Owner](https://github.com/eduardoferreirraa/First-time-pet-owner) | Projeto web temático — layout, semântica e estilo |
 
 ### 📚 Fundamentos
 | Repositório | O que aprendi |
