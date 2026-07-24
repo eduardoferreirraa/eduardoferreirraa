@@ -70,6 +70,7 @@ Cada repositório aqui representa uma etapa real do meu aprendizado — do prime
 |---|---|
 | [projeto-site](https://github.com/eduardoferreirraa/Projeto-Site) | HTML5, CSS3 e estruturação de páginas web |
 | [First-time Pet Owner](https://github.com/eduardoferreirraa/First-time-pet-owner) | Projeto web temático — layout, semântica e estilo |
+| [DevClub Login](https://github.com/eduardoferreirraa/devclub-login) | Tela de login com efeito glassmorphism, Flexbox e ícones (Boxicons) |
 
 ### 📚 Fundamentos
 | Repositório | O que aprendi |
